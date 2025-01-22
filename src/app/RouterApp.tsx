@@ -1,5 +1,5 @@
+import { AuthorizationPage } from '@/pages';
 import {Routes, Route} from 'react-router-dom';
-import { AuthorizationPage } from '@pages';
 
 // TEST
 const HomePage = () => {
